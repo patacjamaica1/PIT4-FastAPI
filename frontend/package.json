@@ -37,6 +37,7 @@
       "last 1 safari version"
     ]
     
-  }
+  },
+  "proxy": "https://pit4-fastapi.onrender.com"
 
 }
