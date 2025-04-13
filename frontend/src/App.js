@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 
-const API_URL ="https://pit4-fastapi.onrender.com/todos/";
+const API_URL ="https://pit4-fastapi.onrender.com";
 
 const App = () => {
   const [tasks, setTasks] = useState([]);
